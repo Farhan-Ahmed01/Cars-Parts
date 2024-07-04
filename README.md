@@ -1,0 +1,3 @@
+Explore our frontend prototype for a responsive car rental and engine parts buying website. 
+This project showcases HTML, CSS, and JavaScript to create a dynamic user interface for browsing and selecting cars for rent, as well as purchasing engine parts based on specific needs.
+Note: This repository focuses on frontend development only and does not include backend functionalities such as transaction processing or database management.
